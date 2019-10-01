@@ -1,4 +1,4 @@
-# Recurrent Neural Network
+# Recurrent Neural Network For Google Stock Price Prediction.
 
 
 
